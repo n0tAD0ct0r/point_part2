@@ -1,0 +1,29 @@
+# Directories #
+###############
+node_modules
+__data__
+__mocks__
+__tests__
+
+# Log files #
+#############
+npm-debug.log
+yarn-error.log
+
+# Files #
+#########
+README.md
+Dockerfile*
+docker-compose*
+.eslintrc.json
+.prettierignore
+.prettierrc.json
+.git
+.gitignore
+.dockerignore
+.env*
+.gitlab-ci.yml
+
+# OS generated files #
+######################
+*.DS_Store
